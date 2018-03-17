@@ -1,5 +1,5 @@
 //purpose of the test:
-//1.test class name and type name inner class
+//1.test class name and type name inner class.Yeah,now i know,this is called injected class name
 template<typename T>
 class Test
 {
