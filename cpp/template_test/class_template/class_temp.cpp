@@ -39,7 +39,7 @@ public:
 };
 
 //3.non-type parameters
-//see cppreference "Template non-type arguments"
+//see cppreference http://en.cppreference.com/w/cpp/language/template_parameters
 template<typename T, int MAX_SIZE>
 class TestNonType
 {
